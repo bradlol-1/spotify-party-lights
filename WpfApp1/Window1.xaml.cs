@@ -76,7 +76,6 @@ namespace WpfApp1
         {
             if (port.IsOpen)
             {
-              //  port.Write("r");
             }
             else
             {
